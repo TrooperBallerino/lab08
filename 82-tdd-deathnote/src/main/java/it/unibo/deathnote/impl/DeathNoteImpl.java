@@ -1,7 +1,6 @@
 package it.unibo.deathnote.impl;
 
 import it.unibo.deathnote.api.DeathNote;
-
 import java.util.Map;
 import java.util.Objects;
 import java.util.HashMap;
